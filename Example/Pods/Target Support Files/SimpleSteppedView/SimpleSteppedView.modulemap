@@ -1,0 +1,6 @@
+framework module SimpleSteppedView {
+  umbrella header "SimpleSteppedView-umbrella.h"
+
+  export *
+  module * { export * }
+}

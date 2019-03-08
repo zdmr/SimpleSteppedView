@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SimpleSteppedView_Example' do
+  pod 'SimpleSteppedView', :path => '../'
+
+  target 'SimpleSteppedView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
