@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SimpleSteppedView'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Simple stepped view with Objective C'
 
 # This description is used to generate tags and improve search results.
@@ -22,7 +22,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/zdmr/SimpleSteppedView'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'Apache', :file => 'LICENSE' }
   s.author           = { 'zdmr' => 'zdmr@live.com' }
   s.source           = { :git => 'https://github.com/zdmr/SimpleSteppedView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'

@@ -1,5 +1,5 @@
 PODS:
-  - SimpleSteppedView (0.1.1)
+  - SimpleSteppedView (0.1.2)
 
 DEPENDENCIES:
   - SimpleSteppedView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SimpleSteppedView: 417c7ab3dec7eb0a168a7f65ed622856de33ca11
+  SimpleSteppedView: f2adf435ae4777d2b3e40c3621c6ddf5ae17b0d9
 
 PODFILE CHECKSUM: 27c39edc96343b5b69f5514c3af2580474ad903b
 
